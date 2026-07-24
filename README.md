@@ -21,12 +21,12 @@ I enjoy building modern web applications, AI-powered solutions, and continuously
 - 
 ## 🌱 Currently Learning
 
-- React
-- Laravel
-- Docker
-- Azure AI
-- Prompt Engineering
-- Software Architecture
+• AI & Large Language Model (LLM) Applications
+• React & Modern Frontend Development
+• Laravel & Full-Stack Development
+• Docker & DevOps Fundamentals
+• Cloud Computing & Microsoft Azure AI
+• Enterprise Architecture & Software Design
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
