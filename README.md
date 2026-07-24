@@ -9,7 +9,7 @@ Information Systems Undergraduate | Full Stack Developer | AI Enthusiast
 </p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
