@@ -8,7 +8,9 @@ Information Systems Undergraduate | Full Stack Developer | AI Enthusiast
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Laravel+%7C+Python;Building+AI-Powered+Applications" alt="Typing SVG" />
 </p>
 
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat)
+</p>
 
 <p align="center">
 Welcome to my GitHub profile!<br>
