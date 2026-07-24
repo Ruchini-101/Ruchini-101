@@ -69,7 +69,7 @@ An ongoing full-stack AI-powered recruitment platform designed to help recruiter
 - Recruiter dashboard & application management
 - Real-time notifications and tracking
 
-**Tech Stack:** React, Laravel, Python, MySQL, Google Gemini AI, Docker
+**Tech Stack:** React, Tailwind Css,Node js, Python, PostgreSQL, Docker
 
 ---
 
