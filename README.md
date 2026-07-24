@@ -50,5 +50,82 @@ ruchinisenarathna20@gmail.com
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,mysql,docker,git,github,vscode,figma" />
 </p>
+
+## 📌 Featured Projects
+
+### 🚀 IntelliHire – Smart Recruitment & Career Guidance System *(Ongoing)*
+An ongoing full-stack AI-powered recruitment platform designed to help recruiters identify top talent efficiently while providing candidates with personalized career guidance and skill development insights.
+
+**Key Features:**
+- AI-powered resume analysis
+- Smart candidate matching & ranking
+- Skill gap identification
+- AI career guidance assistant
+- Recruiter dashboard & application management
+- Real-time notifications and tracking
+
+**Tech Stack:** React, Laravel, Python, MySQL, Google Gemini AI, Docker
+
+---
+
+### 🧠 MindHeaven – Mental Healthcare Management System
+A web-based mental healthcare platform designed to support undergraduate students through accessible counseling and wellness tools.
+
+**Key Features:**
+- Online counseling (Video, Audio & Chat)
+- Appointment scheduling
+- Mood tracking & journaling
+- Habit tracking
+- Anonymous discussion forum
+- Resource hub
+
+**Tech Stack:** PHP, JavaScript, HTML, CSS, MySQL, Daily.co API
+
+---
+
+### 🛒 JS Web Store
+A modern e-commerce platform specializing in kitchen products, enabling customers to browse, purchase, and manage orders through an intuitive and responsive web application.
+
+**Key Features:**
+- Secure user authentication
+- Kitchen product catalog with categories
+- Advanced search and filtering
+- Shopping cart and order processing
+- User profile and order history
+- Responsive frontend with modern UI
+
+**Tech Stack:** React, Laravel, MySQL, Laragon
+
+---
+
+### 💻 CodePlus
+A lightweight Android text editor designed for writing and managing code snippets and text files with a clean, distraction-free interface.
+
+**Key Features:**
+- Create and edit text/code files
+- Save and open local documents
+- Simple and intuitive user interface
+- Lightweight and responsive performance
+- Mobile-friendly editing experience
+
+**Tech Stack:** Kotlin, Android Studio
+
+---
+
+### 📄 AI Resume Analyzer
+An AI-powered application that analyzes resumes and provides ATS-style feedback to improve job application success.
+
+**Key Features:**
+- Resume content analysis
+- ATS compatibility scoring
+- Skill extraction
+- AI-powered improvement suggestions
+- Resume summary generation
+
+**Tech Stack:** Python, Streamlit, Google Gemini AI
+
+---
+
+
   
 
