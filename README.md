@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi 👋 I'm Ruchini Senarathna
+
+### Information Systems Undergraduate | Full Stack Developer | AI Enthusiast
+
+Welcome to my GitHub profile!
+
+I enjoy building modern web applications, AI-powered solutions, and continuously learning new technologies.
 
 <!--
 **Ruchini-101/Ruchini-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
