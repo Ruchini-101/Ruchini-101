@@ -130,7 +130,9 @@ A lightweight Android text editor designed for writing and managing code snippet
 
 ![](https://github-readme-stats.vercel.app/api?username=Ruchini-101&show_icons=true&theme=github_dark)
 
+## 🔥 GitHub Streak
 
+![](https://streak-stats.demolab.com?user=Ruchini-101&theme=github-dark)
 
   
 
