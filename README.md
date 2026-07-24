@@ -98,6 +98,20 @@ A modern e-commerce platform specializing in kitchen products, enabling customer
 
 ---
 
+### 📄 AI Resume Analyzer
+An AI-powered application that analyzes resumes and provides ATS-style feedback to improve job application success.
+
+**Key Features:**
+- Resume content analysis
+- ATS compatibility scoring
+- Skill extraction
+- AI-powered improvement suggestions
+- Resume summary generation
+
+**Tech Stack:** Python, Streamlit, Google Gemini AI
+
+---
+
 ### 💻 CodePlus
 A lightweight Android text editor designed for writing and managing code snippets and text files with a clean, distraction-free interface.
 
@@ -112,19 +126,10 @@ A lightweight Android text editor designed for writing and managing code snippet
 
 ---
 
-### 📄 AI Resume Analyzer
-An AI-powered application that analyzes resumes and provides ATS-style feedback to improve job application success.
+## 📊 GitHub Stats
 
-**Key Features:**
-- Resume content analysis
-- ATS compatibility scoring
-- Skill extraction
-- AI-powered improvement suggestions
-- Resume summary generation
+![](https://github-readme-stats.vercel.app/api?username=Ruchini-101&show_icons=true&theme=github_dark)
 
-**Tech Stack:** Python, Streamlit, Google Gemini AI
-
----
 
 
   
