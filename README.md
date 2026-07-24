@@ -9,12 +9,12 @@ Information Systems Undergraduate | Full Stack Developer | AI Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+Welcome to my GitHub profile!<br>
+I enjoy building modern web applications, AI-powered solutions, and continuously learning new technologies.
 </p>
 
 <p align="center">
-Welcome to my GitHub profile!<br>
-I enjoy building modern web applications, AI-powered solutions, and continuously learning new technologies.
+  <img src="https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 <!--
 **Ruchini-101/Ruchini-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
