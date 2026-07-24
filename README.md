@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 
 I enjoy building modern web applications, AI-powered solutions, and continuously learning new technologies.
 
+![](https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat)
 <!--
 **Ruchini-101/Ruchini-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
