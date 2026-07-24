@@ -11,6 +11,13 @@ I enjoy building modern web applications, AI-powered solutions, and continuously
 **Ruchini-101/Ruchini-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ About Me
+
+- 🎓 Information Systems Undergraduate at UCSC
+- 💻 Passionate about Full Stack Development
+- 🤖 Interested in Artificial Intelligence
+- 🌱 Currently learning React, Laravel and Docker
+- 🚀 Building IntelliHire - Smart Recruitment & Career Guidance System
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
