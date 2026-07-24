@@ -142,5 +142,9 @@ A lightweight Android text editor designed for writing and managing code snippet
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ruchini-101&theme=github-dark)
 
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ruchini-101&theme=github-dark)
+
   
 
