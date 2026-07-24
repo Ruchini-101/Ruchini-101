@@ -1,12 +1,17 @@
-# Hi 👋 I'm Ruchini Senarathna
+<h1 align="center">Hi 👋 I'm Ruchini Senarathna</h1>
 
-### Information Systems Undergraduate | Full Stack Developer | AI Enthusiast
+<h3 align="center">
+Information Systems Undergraduate | Full Stack Developer | AI Enthusiast
+</h3>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Laravel+%7C+Python;Building+AI-Powered+Applications" alt="Typing SVG" />
+</p>
 
+<p align="center">
+Welcome to my GitHub profile!<br>
 I enjoy building modern web applications, AI-powered solutions, and continuously learning new technologies.
-
-![](https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat)
+</p>
 <!--
 **Ruchini-101/Ruchini-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
