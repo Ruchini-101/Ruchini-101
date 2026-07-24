@@ -26,5 +26,29 @@ I enjoy building modern web applications, AI-powered solutions, and continuously
 - Laravel & Full-Stack Development
 - Docker & DevOps Fundamentals
 - Enterprise Architecture & Software Design
+
+## 🤝 Open to Collaborate On
+
+- Open Source Projects
+- AI Applications
+- React Projects
+- Laravel Projects
+- Research Projects
+
+## 📫 Reach Me
+
+Email:
+
+ruchinisenarathna20@gmail.com
+
+## 🌐 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/ruchini-senarathna-12441b3a1)
+
+## 🛠 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,mysql,docker,git,github,vscode,figma" />
+</p>
   
 
