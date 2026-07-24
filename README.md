@@ -18,7 +18,16 @@ I enjoy building modern web applications, AI-powered solutions, and continuously
 - 🤖 Interested in Artificial Intelligence
 - 🌱 Currently learning React, Laravel and Docker
 - 🚀 Building IntelliHire - Smart Recruitment & Career Guidance System
+- 
+## 🌱 Currently Learning
 
+- React
+- Laravel
+- Docker
+- Azure AI
+- Prompt Engineering
+- Software Architecture
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
