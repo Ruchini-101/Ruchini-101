@@ -22,10 +22,10 @@ I enjoy building modern web applications, AI-powered solutions, and continuously
 
 ## 🙋 About Me
 
-    - 🎓 Information Systems Undergraduate at UCSC
-    - 💻 Passionate about Full Stack Development
-    - 🤖 Interested in Artificial Intelligence
-    - 🌱 Currently learning React, Laravel and Docker
+  - 🎓 Information Systems Undergraduate at UCSC
+  - 💻 Passionate about Full Stack Development
+  - 🤖 Interested in Artificial Intelligence
+  - 🌱 Currently learning React, Laravel and Docker
   
 ## 🌱 Currently Learning
 
