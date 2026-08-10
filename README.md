@@ -146,10 +146,9 @@ A lightweight Android text editor designed for writing and managing code snippet
 
 ![](https://github-profile-trophy.vercel.app/?username=Ruchini-101&theme=onedark)
 
-
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ruchini-101&theme=github-dark)
+![Ruchini's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruchini-101&theme=github-dark)
 
   
 
