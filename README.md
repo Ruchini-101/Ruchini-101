@@ -85,22 +85,7 @@ An ongoing full-stack AI-powered recruitment platform designed to help recruiter
 
 ---
 
-### 🧠 MindHeaven – Mental Healthcare Management System
-A web-based mental healthcare platform designed to support undergraduate students through accessible counseling and wellness tools.
-
-**Key Features:**
-- Online counseling (Video, Audio & Chat)
-- Appointment scheduling
-- Mood tracking & journaling
-- Habit tracking
-- Anonymous discussion forum
-- Resource hub
-
-**Tech Stack:** PHP, JavaScript, HTML, CSS, MySQL, Daily.co API
-
----
-
-### 🛒 JS Web Store
+### 🛒 JS Web Store - - E-Commerce Web Application *(Ongoing)*
 A modern e-commerce platform specializing in kitchen products, enabling customers to browse, purchase, and manage orders through an intuitive and responsive web application.
 
 **Key Features:**
@@ -115,33 +100,20 @@ A modern e-commerce platform specializing in kitchen products, enabling customer
 
 ---
 
-### 📄 AI Resume Analyzer
-An AI-powered application that analyzes resumes and provides ATS-style feedback to improve job application success.
+### 🧠 MindHeaven – Mental Healthcare Management System
+A web-based mental healthcare platform designed to support undergraduate students through accessible counseling and wellness tools.
 
 **Key Features:**
-- Resume content analysis
-- ATS compatibility scoring
-- Skill extraction
-- AI-powered improvement suggestions
-- Resume summary generation
+- Online counseling (Video, Audio & Chat)
+- Appointment scheduling
+- Mood tracking & journaling
+- Habit tracking
+- Anonymous discussion forum
+- Resource hub
 
-**Tech Stack:** Python, Streamlit, Google Gemini AI
+**Tech Stack:** PHP, JavaScript, HTML, CSS, MySQL, Daily.co API
 
----
 
-### 💻 CodePlus
-A lightweight Android text editor designed for writing and managing code snippets and text files with a clean, distraction-free interface.
-
-**Key Features:**
-- Create and edit text/code files
-- Save and open local documents
-- Simple and intuitive user interface
-- Lightweight and responsive performance
-- Mobile-friendly editing experience
-
-**Tech Stack:** Kotlin, Android Studio
-
----
 
 ## 📊 GitHub Stats
 
