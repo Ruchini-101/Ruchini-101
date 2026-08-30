@@ -1,47 +1,56 @@
 <h1 align="center">Hi 👋 I'm Ruchini Senarathna</h1>
 
 <h3 align="center">
-Information Systems Undergraduate | Full Stack Developer | AI Enthusiast
+Information Systems Undergraduate | Business Analyst Enthusiast | AI & BI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Laravel+%7C+Python;Building+AI-Powered+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Business+Analysis;Project+Management;Business+Intelligence;Artificial+Intelligence;Information+Systems;Enterprise+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
 Welcome to my GitHub profile!<br>
-I enjoy building modern web applications, AI-powered solutions, and continuously learning new technologies.
+I enjoy analyzing business requirements, designing effective processes, exploring data-driven solutions, and building AI-powered applications that solve real-world business problems.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ruchini-101&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
 <!--
-**Ruchini-101/Ruchini-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ruchini-101/Ruchini-101** is a ✨ _special_ ✨ repository because the `README.md` (this file) appears on your GitHub profile.
 -->
 
 ## 🙋 About Me
 
-  - 🎓 Information Systems Undergraduate at UCSC
-  - 💻 Passionate about Full Stack Development
-  - 🤖 Interested in Artificial Intelligence
-  - 🌱 Currently learning React, Laravel and Docker
-  
+* 🎓 Information Systems Undergraduate at UCSC
+* 📊 Interested in Business Analysis & Business Intelligence
+* 📋 Interested in Project Management & Agile Methodologies
+* 🏢 Exploring Enterprise Systems & Enterprise Architecture
+* 🤖 Passionate about Artificial Intelligence & Data-Driven Solutions
+* 🔍 Interested in requirements analysis, business process modeling, and decision support
+* 💻 Experienced with web technologies, databases, and AI-powered applications
+
 ## 🌱 Currently Learning
 
-- AI & Large Language Model (LLM) Applications
-- React & Modern Frontend Development
-- Laravel & Full-Stack Development
-- Docker & DevOps Fundamentals
-- Enterprise Architecture & Software Design
+* 🤖 AI & Large Language Model (LLM) Applications
+* 📋 Business Analysis & Requirements Engineering
+* 🚀 Project Management & Agile Methodologies
+* 🏢 Enterprise Systems & Enterprise Architecture
+* 💻 React, Laravel & Full-Stack Development
+* 🐳 Docker & DevOps Fundamentals
 
 ## 🤝 Open to Collaborate On
 
-- Open Source Projects
-- AI Applications
-- React Projects
-- Laravel Projects
-- Research Projects
+* 📊 Business Intelligence & Data Analytics Projects
+* 🤖 AI-Powered Applications
+* 📋 Business Analysis & Information Systems Projects
+* 🏢 Enterprise Systems Projects
+* 🚀 Project Management & Agile Projects
+* 💻 Web Application Projects
+* 🔬 Research Projects
+* 🌐 Open Source Projects
+
 
 ## 📫 Reach Me
 
